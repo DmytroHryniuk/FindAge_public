@@ -4,13 +4,18 @@
 
 ****
 #### Table of contents:
-1. [Summary](#summary-arrow_up)
-2. [Remember!](#remember-arrow_up)
-3. [Features](#features-arrow_up)
-4. [Important note](#important-note-arrow_up)
-5. [Screens](#screens-arrow_up)
-6. [Privacy policy](#privacy-policy-arrow_up)
-7. [Google Play](#google-play-arrow_up)
+1. [Google Play](#google-play-arrow_up)
+2. [Summary](#summary-arrow_up)
+3. [Remember!](#remember-arrow_up)
+4. [Features](#features-arrow_up)
+5. [Important note](#important-note-arrow_up)
+6. [Screens](#screens-arrow_up)
+7. [Privacy policy](#privacy-policy-arrow_up)
+
+****
+#### Google Play: [:arrow_up:](#table-of-contents)
+Google Play link: https://play.google.com/store/apps/details?id=com.hryniuk.findage
+
 ****
 #### Summary [:arrow_up:](#table-of-contents)
 _FindAge – app for age determination._
@@ -50,7 +55,3 @@ If you type in the wrong numbers, only a group will be erased.
 ****
 #### Privacy policy: [:arrow_up:](#table-of-contents)
 The privacy policy link: https://findage-prj.web.app/
-
-****
-#### Google Play: [:arrow_up:](#table-of-contents)
-Google Play link: https://play.google.com/store/apps/details?id=com.hryniuk.findage
