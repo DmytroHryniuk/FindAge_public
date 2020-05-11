@@ -10,6 +10,7 @@
 4. [Important note](#important-note-arrow_up)
 5. [Screens](#screens-arrow_up)
 6. [Privacy policy](#privacy-policy-arrow_up)
+7. [Google Play](#google-play-arrow_up)
 ****
 #### Summary [:arrow_up:](#table-of-contents)
 _FindAge – app for age determination._
@@ -49,3 +50,7 @@ If you type in the wrong numbers, only a group will be erased.
 ****
 #### Privacy policy: [:arrow_up:](#table-of-contents)
 The privacy policy link: https://findage-prj.web.app/
+
+****
+#### Google Play: [:arrow_up:](#table-of-contents)
+Google Play link: https://play.google.com/store/apps/details?id=com.hryniuk.findage
